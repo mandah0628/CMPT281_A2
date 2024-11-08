@@ -15,8 +15,11 @@ body {
   font-size: 1.2em;
 }
 
+/*
+** Blurs the bakground image
+*/
 body::before {
-  content: '';
+  content: ''
   position: absolute;
   top: 0;
   left: 0;

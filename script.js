@@ -2,8 +2,8 @@
 const examDate = new Date("2024-12-23T14:00:00Z");
 
 /* function for animating the counter
-// 
-//
+/ 
+/ 
 //
 */
 function updateCounter(id, newValue) {
