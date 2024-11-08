@@ -1,7 +1,11 @@
-// Set the date and time for the final exam (e.g., December 23, 2024, 2:00 PM UTC)
+// exam date
 const examDate = new Date("2024-12-23T14:00:00Z");
 
-// Helper function to update a counter and apply the pulse animation
+/* function for animating the counter
+// 
+//
+//
+*/
 function updateCounter(id, newValue) {
     const element = document.getElementById(id);
 
